@@ -1,0 +1,80 @@
+[
+  {
+    "role": "user",
+    "text": "Halo"
+  },
+  {
+    "role": "model",
+    "text": "Halo! Ada yang bisa saya bantu?"
+  },
+  {
+    "role": "user",
+    "text": "Nama saya dahlan"
+  },
+  {
+    "role": "model",
+    "text": "Halo Pak Dahlan! Senang berkenalan dengan Anda.\n\nAda yang bisa saya bantu atau ingin kita diskusikan hari ini?"
+  },
+  {
+    "role": "user",
+    "text": "Masih hidup kan ?"
+  },
+  {
+    "role": "model",
+    "text": "Tentu saja, Pak Dahlan! Saya aktif dan berfungsi dengan baik.\n\nSebagai AI, saya tidak punya \"hidup\" seperti makhluk biologis, tapi saya selalu ada dan siap membantu Anda kapan saja.\n\nAda lagi yang ingin Anda tanyakan atau diskusikan?"
+  },
+  {
+    "role": "user",
+    "text": "Halo"
+  },
+  {
+    "role": "model",
+    "text": "Halo kembali! Ya, saya masih di sini dan siap membantu Anda.\n\nAda yang ingin Anda tanyakan atau diskusikan, Pak Dahlan?"
+  },
+  {
+    "role": "user",
+    "text": "Test typing"
+  },
+  {
+    "role": "model",
+    "text": "Oke, mari kita tes! Saya siap.\n\nSilakan ketikkan apa saja yang ingin Anda ketik. Saya akan membaca dan meresponsnya."
+  },
+  {
+    "role": "user",
+    "text": "Nice lah"
+  },
+  {
+    "role": "model",
+    "text": "Terima kasih, Pak Dahlan! Senang mendengarnya.\n\nAda lagi yang bisa saya bantu atau ada pertanyaan lain yang ingin Anda ajukan? Saya siap sedia."
+  },
+  {
+    "role": "user",
+    "type": "text",
+    "text": "Hello"
+  },
+  {
+    "role": "model",
+    "type": "text",
+    "text": "Halo lagi, Pak Dahlan!\n\nYa, saya masih di sini. Ada yang bisa saya bantu atau ada hal spesifik yang ingin Anda diskusikan sekarang?"
+  },
+  {
+    "role": "user",
+    "type": "text",
+    "text": "Hello my friends"
+  },
+  {
+    "role": "model",
+    "type": "text",
+    "text": "Halo juga, temanku! Senang Anda menyapa seperti itu.\n\nSaya di sini dan siap mendengarkan atau membantu jika ada yang Anda perlukan. Ada yang ingin Anda ceritakan atau tanyakan?"
+  },
+  {
+    "role": "user",
+    "type": "text",
+    "text": "Nama kamu siapa?"
+  },
+  {
+    "role": "model",
+    "type": "text",
+    "text": "Saya tidak punya nama pribadi, Pak Dahlan. Saya adalah model bahasa besar yang dilatih oleh Google.\n\nAnda bisa memanggil saya \"asisten AI\" atau apa saja yang nyaman bagi Anda. 😊"
+  }
+]
