@@ -1,0 +1,21 @@
+# Framework Telegram bot
+python-telegram-bot==21.6
+
+# HTTP client async untuk panggil OpenRouter API
+httpx==0.27.2
+
+# Baca file .env otomatis
+python-dotenv==1.0.1
+
+# Validasi & type-safe config dari environment
+pydantic==2.8.2
+pydantic-settings==2.4.0
+
+# Structured logging (JSON di prod, pretty di dev)
+structlog==24.4.0
+
+# Retry otomatis jika request gagal
+tenacity==9.0.0
+
+# Baca/tulis file async (opsional, untuk fitur masa depan)
+aiofiles==24.1.0
